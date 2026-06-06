@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The domain I chose is Rate My Profesors. This knowledge is valuable because these 
+are real reviews that students who have taken the class submitted.
 ---
 
 ## Documents
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Profesor | Lina Kloub's RMP | https://www.ratemyprofessors.com/professor/2754387 | 
+| 2 | Rate My Profesor | Olga's RMP | https://www.ratemyprofessors.com/professor/2963544 |
+| 3 | Rate My Profesor | Swamy's RMP | https://www.ratemyprofessors.com/professor/3044671 |
+| 4 | Rate My Profesor | Justin's RMP | https://www.ratemyprofessors.com/professor/3127655 |
+| 5 | Rate My Profesor | David Strimple's RMP | https://www.ratemyprofessors.com/professor/2872422 |
+| 6 | Rate My Profesor | Derek's RMP | https://www.ratemyprofessors.com/professor/2460362 |
+| 7 | Rate My Profesor | Laurent's RMP | https://www.ratemyprofessors.com/professor/1135923 |
+| 8 | Rate My Profesor | Timothy Curry's RMP | https://www.ratemyprofessors.com/professor/2945690 |
+| 9 | Rate My Profesor | Zhije's RMP | https://www.ratemyprofessors.com/professor/1282131 |
+| 10 | Rate My Profesor | Alexander Russell's RMP | https://www.ratemyprofessors.com/professor/1691848 |
 
 ---
 
@@ -41,10 +43,14 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+350 tokens
 
 **Overlap:**
+20 tokens
 
 **Reasoning:**
+Since each review is separate from each other, the overlap doesn't have to be as drastic since it will be searching
+for key words only. Recursive chunking strategy is best for these documents.
 
 ---
 
@@ -57,11 +63,13 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+All-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+The top-k for our project is 3-5 but around 5 similar chunks is good.
 
 **Production tradeoff reflection:**
-
+I might use a larger hosted model like OpenAI text-embedding-3-large for better accuracy on heavier review texts with slang and higher retrieval quality. It would also weigh in multilingual spport if reviews span different languages.
 ---
 
 ## Evaluation Plan
@@ -73,11 +81,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Are Lina Kloub's exams difficult? | Lina Kloub's exams might seem a bit difficult but fair since the material on the exams if everything she has shown. |
+| 2 | Do students recommend taking Swamy's class? | 86% of students recommend taking Swamy's class with a lot of students saying he is caring. |
+| 3 | Is attendance mandatory for Olga's class? | Attendance for Olga's class is not mandatory and lectures are often not helpful. |
+| 4 | Is David Strimple's grading rubric harsh? | Many students suggest David Strimple is a tough grader and that you will have to learn everything yourself. |
+| 5 | If you were to choose one profesor to take in terms of workload, would it be Lina Kloub or David Strimple? | Many students suggest Lina Kloub in terms of workload as David Strimple often doesn't teach well and gives lots of homework. |
 
 ---
 
@@ -87,9 +95,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Off-topic and wrong-profesor retrieval since most of the RMP pages have similar or near identicial language. 
 
-2.
+2. RMP reviews openly disagree and there is no ground truth.
 
 ---
 

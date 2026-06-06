@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+The domain I chose is Rate My Profesors. This knowledge is valuable because these 
+are real reviews that students who have taken the class submitted.
 ---
 
 ## Document Sources
@@ -24,16 +26,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Profesor | Lina Kloub's RMP | https://www.ratemyprofessors.com/professor/2754387 | 
+| 2 | Rate My Profesor | Olga's RMP | https://www.ratemyprofessors.com/professor/2963544 |
+| 3 | Rate My Profesor | Swamy's RMP | https://www.ratemyprofessors.com/professor/3044671 |
+| 4 | Rate My Profesor | Justin's RMP | https://www.ratemyprofessors.com/professor/3127655 |
+| 5 | Rate My Profesor | David Strimple's RMP | https://www.ratemyprofessors.com/professor/2872422 |
+| 6 | Rate My Profesor | Derek's RMP | https://www.ratemyprofessors.com/professor/2460362 |
+| 7 | Rate My Profesor | Laurent's RMP | https://www.ratemyprofessors.com/professor/1135923 |
+| 8 | Rate My Profesor | Timothy Curry's RMP | https://www.ratemyprofessors.com/professor/2945690 |
+| 9 | Rate My Profesor | Zhije's RMP | https://www.ratemyprofessors.com/professor/1282131 |
+| 10 | Rate My Profesor | Alexander Russell's RMP | https://www.ratemyprofessors.com/professor/1691848 |
 
 ---
 
@@ -48,11 +50,20 @@
 
 **Chunk size:**
 
+350 tokens
+
 **Overlap:**
+
+20 tokens
 
 **Why these choices fit your documents:**
 
+Since each review is separate from each other, the overlap doesn't have to be as drastic since it will be searching
+for key words only. Recursive chunking strategy is best for these documents.
+
 **Final chunk count:**
+
+30-80 chunks total across 10 professors.
 
 ---
 
@@ -65,8 +76,10 @@
      latency, and local vs. API-hosted. -->
 
 **Model used:**
+All-MiniLM-L6-v2 via sentence-transformers
 
 **Production tradeoff reflection:**
+I might use a larger hosted model like OpenAI text-embedding-3-large for better accuracy on heavier review texts with slang and higher retrieval quality. It would also weigh in multilingual spport if reviews span different languages.
 
 ---
 
