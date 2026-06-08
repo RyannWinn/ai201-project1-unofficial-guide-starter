@@ -1,0 +1,74 @@
+PROFESSOR: Zhijie 'Jerry Shi
+RMP_ID: 1282131
+URL: https://www.ratemyprofessors.com/professor/1282131
+
+=== OVERALL ===
+Overall rating: 2.5/5
+Would take again (%): 40%
+Level of difficulty (1-5): 4.2
+Top tags: Test heavy, Lots of homework, Participation matters
+
+=== REVIEWS ===
+Quality 5.0 | Difficulty 3.0 | CSE3666
+Wow, what an underrated professor. I was afraid to take this class with him as 
+I had a conflict with Scoggin's, but I had nothing to worry about. Shi does a 
+great job presenting the content, answering questions, and stimulating interest 
+in computer architecture. Give him a chance, REALLY participate, and you will see 
+him as I do!
+
+Quality 1.0 | Difficulty 5.0 | CSE3666
+What a waste of time and money. Lectures are bad, along with slides, HW and labs. 
+Tough exams weighted 70% with 50 to 60% averages. No curve. No effort is put into 
+improving the course.
+
+Quality 1.0 | Difficulty 5.0 | CSE3666
+NEVER TAKE 3666 WITH THIS GUY. exams are weighting 70% of your overall grade, so 
+you could pass this course without attending the lad and lecture and you could 
+forget about the lab and homework if you can do good on the exams, and he is 
+always mumbling during the lecture, he just enjoy watching students suffer. 
+worst CS professor ever.
+
+Quality 4.0 | Difficulty 5.0 | CSE3666
+His exams are straightforward and cover exactly what you'd expect based on the 
+material. The lectures are pretty clear. He is not that bad.
+
+Quality 2.0 | Difficulty 4.0 | CSE3666
+The one comment on here that is 5 stars is from one of the TA's This is a hard 
+class. Jerry Shi was involved in a shady scandal 10 years ago. He is hard to 
+understand during lecture and it's required. He hates answering questions. We 
+were promised a final grade curve, but after the final, he just ghosted anyone 
+who asked about it.
+
+Quality 2.0 | Difficulty 4.0 | CSE3666
+This class is bad, but Jerry makes it worse. I would show up to the other 
+professor's lectures because I literally could not understand Jerry's rambling. 
+He's not an evil person and his exams aren't tougher, but you won't get anything 
+out of his lectures because he doesn't explain anything well, his extra credit was 
+harder, and his curve was less.
+
+Quality 5.0 | Difficulty 1.0 | CSE3666
+Boy oh boy, where do I even begin? Professor Jerry Shi, my guiding light. I have 
+admired you ever since I first attended your Computer Science Architecture class. 
+The way you break down complex systems, it's like watching a master artist at work. 
+If only I could freeze time, so I'd never have to witness the day you decide to 
+retire from teaching.
+
+Quality 5.0 | Difficulty 4.0 | CSE3100
+Jerry is actually a solid CSE professor. He teaches too fast sometimes, but my 
+god is he accessible thru piazza like 24/7. Exams are, imo, easier than cse2050 
+and homeworks aren't too difficult. He uploads demo code to his Github which is 
+nice to reference. I didn't have high expectations for Jerry but was pleasantly 
+surprised and would reccommend!
+
+Quality 1.0 | Difficulty 5.0 | CSE3400
+The number of things wrong with this class are kind of incredible. Absolutely 
+terrible lectures, as the professor struggles to form even a single coherent 
+thought, leaving every student learning absolutely nothing. Slides are atrocious, 
+and the only textbook referenced is the worst resource they could have chosen. 
+Genuinely disappointing. Avoid.
+
+Quality 5.0 | Difficulty 3.0 | CSE4302
+Jerry is very friendly and has a good sense of humor. You can tell he actually 
+cares about whether you learn the subject matter. He will test you in class to 
+make sure you comprehend, and drill it into your head if you don't. The homeworks 
+were actually helpful and let you practice the concepts you learned in class.

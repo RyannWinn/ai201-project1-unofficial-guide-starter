@@ -1,0 +1,71 @@
+PROFESSOR: Lina Kloub
+RMP_ID: 2754387
+URL: https://www.ratemyprofessors.com/professor/2754387
+
+=== OVERALL ===
+Overall rating: 4.7/5
+Would take again (%): 94%
+Level of difficulty (1-5): 2.8
+Top tags: Amazing lectures, Group projects, Mandatory attendance
+
+=== REVIEWS ===
+Quality 5.0 | Difficulty 2.0 | CSE2050
+she's so sweet! her lectures were super helpful and gave us a lot of 
+grading opportunities (labs, participation, group project, and exams). 
+definitely would recommend to anyone taking the course.
+
+Quality 5.0 | Difficulty 1.0 | CSE2050
+Lina Kloub is an amazing professor, and honestly, one of the best 
+instructors I have come across yet.She teaches concepts visually and 
+makes each lecture engaging. The course does feel a bit heavy with 
+several different assignments, but I wish I could have her as a professor 
+for every single CS course I have to take in the future-she is that great!
+
+Quality 4.0 | Difficulty 3.0 | CSE2050
+While the exams might seem a little difficult, they were fair, and all 
+material she goes over in the slides and lecture. No homework, and we are 
+given ample amount of time to finish our labs.
+
+Quality 5.0 | Difficulty 3.0 | CSE2050
+She is highly organized, posting all lecture notes, code, and even 
+videos on Blackboard. She is also approachable and patient, and most 
+importantly, she has a strong ability to break down complex ideas into 
+manageable pieces that are easy to understand and retain. Great teacher, 
+overall no complaints.
+
+Quality 5.0 | Difficulty 2.0 | CSE3500
+Professor Kloub taught a very hard class but made it very easy and simple. 
+Going to lectures helped make it way easier. Also, all the notes were on 
+huskyct so it was easy to review and practice.
+
+Quality 5.0 | Difficulty 2.0 | CSE3500
+Professor Kloub is great! Active and engaged inside and outside the classroom. 
+Genuinely wants to see her students succeed, and balances out exams with lots of 
+project grades. I'm usually not a great test taker, but her study materials were 
+great and exams were manageable. Homeworks were a reasonable length.
+
+Quality 4.0 | Difficulty 3.0 | CSE3500
+I loved Professor Kloub's class! Her slides and lectures were very informative, 
+and the tests were fine if you did the in-class worksheets and homeworks and 
+understood them. Overall, I would definitely recommend!
+
+Quality 1.0 | Difficulty 5.0 | CSE3500
+This class was so hard. no opportunities for extra credit, TAs grade horrible, 
+harshly, no partial credit ever given, exams are difficult— not enough prep for 
+them. They don't care about you passing or not, do not recommend her at all. No 
+curves either. Never seen cs professor not curve knowing it's hardest major + one 
+of hardest classes at UConn.
+
+Quality 5.0 | Difficulty 3.0 | CSE2102
+Kloub's teaching of this course was probably the best course I've taken at UConn 
+so far. The class made sense with her lectures, and the TA review for the midterms 
+was also really helpful. I enjoyed the Project-Based Learning aspect of the class, 
+giving us experience building a full-stack project. The labs are actually helpful 
+and applicable.
+
+Quality 5.0 | Difficulty 2.0 | CSE2102
+I would absolutely have Lina as my professor for all CS courses! She's one of the 
+best professors I have had and it feels embarrassing that I didn't have her for 
+CSE2050 or CSE3500. Her CSE2102 is an easy class and she's pretty flexible. The 
+labs, the homeworks, and the group project weren't too difficult but did require 
+effort. I recommend her.

@@ -1,0 +1,68 @@
+PROFESSOR: Alexander Russell
+RMP_ID: 1691848
+URL: https://www.ratemyprofessors.com/professor/1691848
+
+=== OVERALL ===
+Overall rating: 4.2/5
+Would take again (%): 63%
+Level of difficulty (1-5): 4.5
+Top tags: Lots of Homework, Test Heavy, Tough Grader
+
+=== REVIEWS ===
+Quality 3.0 | Difficulty 5.0 | CSE4702
+This class is super hard. Entire grade is based on 4 exams which require a ton of 
+studying. Professor Russell isn't a bad professor and his lectures are okay but be 
+prepared for long assignments and really difficult exams. The format was usually 5 
+questions and you chose 4 to be graded. Studying was unclear and it was hard to 
+prepare in general. 
+
+Quality 5.0 | Difficulty 5.0 | CSE4702
+I think he's probably one of the greatest teachers I have ever had. I tend to 
+skip classes, but I went to every single one of his classes because he's a joy 
+to listen to. His assignments are hard. Exams are not very difficult and are designed 
+with time constraints in mind. Same deal with 5852 as they are the same classes.
+
+Quality 2.0 | Difficulty 5.0 | CSE4702
+I wouldn't take this if you took cse3400 and don't plan on going to grad school. 
+You learn the same topics and it's more difficult. Spent up to 10 hours doing HWs 
+each week. 50% of our grade was directed by 2 quizzes (which quizzed you on new material). 
+For my concentration (cryptography), I feel like I wasted my semester not learning any 
+new stuff
+
+Quality 2.0 | Difficulty 5.0 | CSE1729
+Hardest class I've taken at UConn so far. Would not suggest taking unless he changed 
+the grading since I've taken it
+
+Quality 5.0 | Difficulty 5.0 | CSE1729
+The class is very difficult but you should be alright if you go to lecture and do all 
+the problem sets on time. Go to lecture; its worth your time. Professor Russell is very 
+intelligent and an excellent lecturer. I highly recommend him for CSE 1729.
+
+Quality 4.0 | Difficulty 4.0 | CSE1729
+A very difficult class but if you put in the effort in homework and lab, you'll be 
+fine. Professor clearly cares about his students, and although I never attended office 
+hours, he answered questions on the online discussion board promptly and thoroughly. 
+Good lectures.
+
+Quality 4.0 | Difficulty 4.0 | CSE1729
+Really good lectures, he's very engaging and is great at presenting the material. 
+He understands and answers all the questions asked too. Homeworks and exams were 
+tough but not impossible, just requires the extra effort and he grades fairly.
+
+Quality 5.0 | Difficulty 5.0 | CSE1010
+Professor Russell is SMART. He has quite the impressive list of research papers and he 
+cares about his students. I would suggest taking any and all of his classes as possible. 
+That being said, it's not going to be easy, but you'll learn a lot.
+
+Quality 5.0 | Difficulty 4.0 | CSE2500
+This is a challenging class about dry material, but Prof. Russell did a superb job at 
+teaching. Prof. Russell is easily one of the top 3 CSE professors at Uconn. His 
+precision and speech skills are unrivaled. The few number of reviews he has is a 
+testament that few are left disappointed after his classes, since most reviews are 
+revengeful on here.
+
+Quality 5.0 | Difficulty 5.0 | CSE3502
+Alex Russel is the funniest, most lively and most passionate professor I've ever had. 
+He takes dry content and makes it interesting. However, the material is obscenely hard 
+to understand (not because of his teaching, its just very abstract). Fantastic professor,
+you will learn a lot, but even good students will have a hard time getting an A.

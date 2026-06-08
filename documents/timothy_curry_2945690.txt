@@ -1,0 +1,71 @@
+PROFESSOR: Timothy Curry
+RMP_ID: 2945690
+URL: https://www.ratemyprofessors.com/professor/2945690
+
+=== OVERALL ===
+Overall rating: 4.1/5
+Would take again (%): 77%
+Level of difficulty (1-5): 3.4
+Top tags: Amazing lectures, Test heavy, Helpful
+
+=== REVIEWS ===
+Quality 1.0 | Difficulty 5.0 | CSE1010
+Great guy but not great professor. It's basically a teach yourself kind of 
+class. He gives homework due one week and the next tries to teach us about it. 
+It's too little too late. Tests make no sense and labs are pointless. I am 
+also going to be so real when I say the guy talks in exclamation points. 
+Goodluck and Godspeed.
+
+Quality 5.0 | Difficulty 3.0 | CSE1010
+Prof. Curry was a great professor but the way the class was structured makes 
+his role limited. At least in the Fall 2024 semester, there was only 50-minute 
+lecture a week, so you didn't have much time to interact with him. He was 
+understanding and you could tell he was passionate about what he was teaching, 
+so do reach out to him if you need help!
+
+Quality 4.0 | Difficulty 3.0 | CSE1010
+Course material is tough if you have never coded before but professor Curry 
+makes concepts very easy to understand during his lectures. Unfortunately 
+most of the content is learned through videos rather than his in-person lectures 
+and is more like an online course. Do the homework and you'll be fine 
+(they're also weighted the same as exams)
+
+Quality 5.0 | Difficulty 3.0 | CSE2050
+The material he teaches is difficult and that doesn't change, but he makes a 
+great effort to teach and dissect everything to a newbie level. He is very 
+caring and will always offer help when asked. If you could take any class with 
+him, pick him if you want to get a decent grade/understanding of the material. 
+But you also need to put the effort too!
+
+Quality 5.0 | Difficulty 3.0 | CSE2050
+It's very refreshing to have an instructor that is as passionate about what he 
+does and is actually invested in students' learning. 2050 is a difficult class, 
+but if you participate it makes the learning much easier, especially with an 
+instructor like Curry. Highly recommend Curry!
+
+Quality 2.0 | Difficulty 5.0 | CSE2050
+Tim Curry is a great guy with a great personality and very passionate, but 
+unfortunately passion doesn't translate to teaching ability. Always has good 
+slides, but doesn't give good lectures. The class is difficult but if you stay 
+on top of things its manageable. Makes you do a few microsoft forms for attendance 
+each class.
+
+Quality 3.0 | Difficulty 5.0 | CSE2050
+He deleted my first 3 ratings, however, he is a very boring professor who relies 
+too much on his slides which oftentimes are completely unhelpful when it comes 
+to doing the homework. His class and way of teaching is very boring. TA's are 
+unhelp apart from Victor Lek, and Discord helps at the start but as the semester 
+progresses TA's abandon it.
+
+Quality 5.0 | Difficulty 5.0 | CSE3160
+Curry is the goat but this class is vry hard.
+
+Quality 4.0 | Difficulty 2.0 | CSE3160
+Good professor, good lectures, class overall was fairly easy, too easy. If you 
+are deciding between 3150 or 3160 take this class, its A LOT less work. midterm 
+was live coding, final was 17 pages of coding on paper. labs and hw were all easy. 
+only issue i had with his teaching style was the FORCED attendance (10% of grade) 
+via in-class polls.
+
+Quality 5.0 | Difficulty 2.0 | CSE3140
+Prof. Curry is good for CSE 3140! Lectures are helpful to understand the labs

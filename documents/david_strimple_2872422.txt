@@ -1,0 +1,86 @@
+PROFESSOR: David Strimple
+RMP_ID: 2872422
+URL: https://www.ratemyprofessors.com/professor/2872422
+
+=== OVERALL ===
+Overall rating: 1.2/5
+Would take again (%): 8%
+Level of difficulty (1-5): 3.9
+Top tags: Tough Grader, Graded by few things, Test Heavy
+
+=== REVIEWS ===
+Quality 1.0 | Difficulty 5.0 | CSE1010
+If you are new to computer science, Python, or coding in general,
+be prepared to teach yourself a majority of the topics in this 
+course.
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+For teaching such an introductory-level course, he expects you 
+to know so much. The funny thing is, I didn't learn a single 
+thing from this guy at all! The online software this course 
+uses (ZyBooks) is the only reason why I passed. Not only does 
+he not teach, but when you ask him questions, he is just so rude 
+and dismissive. Take anyone but him.
+
+Quality 1.0 | Difficulty 5.0 | CSE2500
+Taking this class made me go to SHAW to try and better my mental 
+health. Prof. Strimple without a doubt is the worst professor 
+I've ever had in my lifetime. He never teaches the class in 
+lectures, he just reads really bad slides and then talks about 
+his life. He will also set up office hours; when you go nobody 
+is there to assist you. Just awful.
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+He is one of the worst teachers I've ever had. He seems to be 
+learning the content as he teaches us, and can't help us when 
+we are confused. He's difficult to contact, and his poor teaching
+led many of kids including myself to fail multiple assignments 
+and exams. He single-handedly ruined my major for me, so much so,
+I switched. Anybody but him.
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+He's absolutely awful. His office hours are a waste of time and 
+his lectures are a waste of breath. If you want to understand 
+foundations of code in python by any means, find someone else 
+to teach it. He's in there at the same level of comprehension 
+as someone who simply knows how to spell the word python. 0/10 
+would absolutely never recommend.
+
+Quality 3.0 | Difficulty 4.0 | CSE2500
+While I don't think he was quite as bad as some of these reviews 
+make it seem, there is definitely room for improvement. He is 
+definitely a harsh grader and will take points off for very 
+minor mistakes. Regardless, I will say I do feel like I learned 
+a lot from him and his class. Nice person too, don't be afraid 
+to talk to him during office hours.
+
+Quality 1.0 | Difficulty 5.0 | CSE2500
+Horrible professor. Homework is difficult and hard to understand 
+because of how he writes it. Talks too much without even teaching
+properly. Does examples in class and somehow will mix himself up 
+and do it wrong. Grades horribly because he wants it to be 
+exactly how he does it and any other way is wrong.
+
+Quality 1.0 | Difficulty 5.0 | CSE3150
+1 is not low enough for this class made me want to die. This 
+professor is nowhere near a professional and honestly should've 
+chosen a different career. He doesn't know what he is teaching 
+and you will struggle to comprehend the way this professor grades 
+his assignment. I am warning everyone for your own sake do not 
+take this course, thank me later
+
+Quality 1.0 | Difficulty 3.0 | CSE3150
+The capacities of this platform are insufficient to express 
+the pure vitriol I hold for this caricature of a class. I'll 
+withhold, simply because I do not think Strimple is inherently 
+a bad man. That being said, he makes a Professor like Jerry Shi 
+look like a shining example of what the CS Department should 
+aspire to be. Ignominiously disgraceful.
+
+Quality 1.0 | Difficulty 2.0 | CSE3200
+I was very excited for 3200. BUT the lectures are difficult to 
+follow because he makes errors constantly and most relied on 
+videos he posted last year. Expect an announcement each class 
+fixing errors he made. HW instructions are vague. Historically 
+he cares more about catching students cheating than producing 
+quality study material, do better pls

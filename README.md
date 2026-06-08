@@ -50,17 +50,21 @@ are real reviews that students who have taken the class submitted.
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-350 tokens
+230 tokens
 
 **Overlap:**
 20 tokens
 
 **Why these choices fit your documents:**
 Since each review is separate from each other, the overlap doesn't have to be as drastic since it will be searching
-for key words only. Recursive chunking strategy is best for these documents.
+for key words only. Recursive chunking strategy is best for these documents. Chunk size is capped at 230 tokens
+because all-MiniLM-L6-v2 only embeds the first 256 tokens of any input and silently truncates the rest; 230 leaves
+headroom for the "Professor:" prefix while keeping every chunk fully within the model's window. Preprocessing strips
+the per-review rating line and joins hard-wrapped lines into clean prose before chunking.
 
 **Final chunk count:**
-30-80 chunks total across 10 professors.
+47 chunks total across 10 professors (each professor contributes 1 "overall" stats chunk plus
+~3-4 review chunks).
 
 ---
 

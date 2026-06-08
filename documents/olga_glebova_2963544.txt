@@ -1,0 +1,70 @@
+PROFESSOR: Olga Glebova
+RMP_ID: 2963544
+URL: https://www.ratemyprofessors.com/professor/2963544
+
+=== OVERALL ===
+Overall rating: 2.2/5
+Would take again (%): 30%
+Level of difficulty (1-5): 3.2
+Top tags: Lots of homework, Get ready to read, Lectures not helpful
+
+=== REVIEWS ===
+Quality 1.0 | Difficulty 5.0 | CSE1010
+Lectures are not helpful at all, grade is extreamly exam heavy with 
+average being in the 60s. If you do not have previous CS experience you 
+will struggle.
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+She is not a very understanding professor, was unkind and frankly rude to me 
+when discussing basic accommodations involving the CSD when I have had zero 
+issues with any other professor. There is homework due literally every 2 days 
+for no good reason just not a good experience overall.
+
+Quality 2.0 | Difficulty 3.0 | CSE1010
+The class itself was ok, and for the most part was easy. As long as you do 
+the zybooks, you should do ok on the exams. However, the zybooks do take 
+forever to do, so don't wait till the last minute to do them. Her lectures 
+were pretty pointless as she would just babble about random stuff the whole 
+time. Labs were an easy 100.
+
+Quality 3.0 | Difficulty 3.0 | CSE1010
+This class is relatively difficult and homework heavy. The hw is online and 
+is quite tedious but helps substantially in understanding the hard material. 
+Attendance is not mandatory neither are the labs but they should be completed 
+as they account for a good part of the grade. Overall, if you do the zybooks 
+hw and try to understand it, its not bad.
+
+Quality 2.0 | Difficulty 4.0 | CSE1010
+Zybooks homework are absolutely ridiculous. Exams get progressively more 
+difficult as you go through the course and very minimal extra credit. If 
+you haven't coded before it is very difficult to keep up. Olga is a very 
+nice and understanding professor, I just think its too difficult for an 
+introductory course.
+
+Quality 2.0 | Difficulty 3.0 | CSE2500
+She's hard to follow. There's homework but its all on zybooks and it isn't 
+helpful at all when it comes to the tests. 2500 is already hard and she 
+didn't do much to make it easier. Even if you go to her privately and ask 
+questions, she isn't helpful. She can be a bit rude too.
+
+Quality 5.0 | Difficulty 3.0 | CSE2500
+She is unbelievably nice and passionate about her classes. Seriously, go talk 
+to her about anything in the class. Additionally she helped cut me a deal that 
+saved my grade. If you put in effort and match her energy, she will be one of 
+the best professors you will ever have. Still, I think her lectures are a bit 
+tough to follow
+
+Quality 5.0 | Difficulty 2.0 | CSE2500
+Goated professor. Her lectures and class activities are engaging, and she 
+really cares about helping students understand the material. You'll learn a 
+lot just by participating, and the examples in class are often directly related 
+to the exams. Super nice, too.
+
+Quality 1.0 | Difficulty 3.0 | CSE2500
+The exams were not graded fairly in my opinion , the TAs were harsh graders too. 
+I did not really like the way lectures were taught.
+
+Quality 4.0 | Difficulty 3.0 | CSE2500
+5 exams which was really annoying got to a point where we had one every 3 
+lectures. 1 got dropped. I'd say she was a good teacher and easy homework was 
+a large part of the grade.

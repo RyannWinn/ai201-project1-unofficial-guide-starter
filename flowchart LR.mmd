@@ -1,8 +1,8 @@
 flowchart LR
     A["Document Ingestion:<br/>RateMyProfessors pages<br/>requests + BeautifulSoup"]
-    --> B["Chunking:<br/>Recursive, 350 tokens<br/>20-token overlap"]
+    --> B["Chunking:<br/>Recursive, 230 tokens<br/>20-token overlap"]
     --> C["Embedding + Vector Store:<br/>all-MiniLM-L6-v2<br/>stored in ChromaDB"]
     --> D["Retrieval:<br/>Top-k similarity search (k=5)<br/>ChromaDB query"]
-    --> E["Generation:<br/>LLM answers from retrieval<br/>Claude (claude-opus-4-8)"]
+    --> E["Generation:<br/>LLM answers from retrieval<br/>Groq (llama-3.3-70b-versatile)"]
 
     Q(["User question"]) --> D

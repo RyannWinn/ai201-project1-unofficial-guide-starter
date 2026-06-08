@@ -1,0 +1,75 @@
+PROFESSOR: Derek Aguiar
+RMP_ID: 2460362
+URL: https://www.ratemyprofessors.com/professor/2460362
+
+=== OVERALL ===
+Overall rating: 3.5/5
+Would take again (%): 59%
+Level of difficulty (1-5): 4.1
+Top tags: Amazing lectures, Clear grading criteria, Hilarious
+
+=== REVIEWS ===
+Quality 5.0 | Difficulty 4.0 | CSE1010
+The homework in the latter half of the course was a bit 
+difficult for me, but that is only because I've never taken 
+CS before (and thus, it takes a bit of work to learn, just 
+like any other class). Everything in the first half of the 
+semester was really easy. TONS of extra credit opportunities 
+during lab times -- take advantage of it!
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+Makes CSE 1010 way too hard for an intro course. While you are 
+supposed to be learning python basics, by the end of the course 
+you will be covering other programming languages and learning about 
+data structures that are not required for this course, yet Derek makes 
+you cover it anyways. Choose another professor if you want an actual 
+intro course.
+
+Quality 2.0 | Difficulty 2.0 | CSE1010
+I mean hes a good guy but he made the class too hard for an intro level 
+class. I am a bio major so why do I have to know about data structures, 
+way too hard.
+
+Quality 1.0 | Difficulty 5.0 | CSE1010
+Very difficult for an intro level class, especially since the majority of 
+students who have to take it may not have prior coding experience. You have 
+to pretty much rely on the textbook for everything, especially since it's 
+online. Online discussion board was more confusing than beneficial. Lab TAs 
+weren't too helpful either and can be snarky.
+
+Quality 4.0 | Difficulty 4.0 | CSE1010
+Derek seems like he's passionate about what he does, but cse1010 is all 
+based on the interactive textbook. the lectures are helpful if you're stuck, 
+but you can get by without them. as someone else said, if you can figure out 
+list comprehension, the midterm and final are fine. get ready for some long hw 
+assignments though...
+
+Quality 5.0 | Difficulty 3.0 | CSE3500
+If you have the opportunity to, definitely take it with Derek! He's an 
+awesome guy and you learn so much. Would recommend!
+
+Quality 5.0 | Difficulty 4.0 | CSE3500
+Awesome algorithms professor, you will genuinely learn so much if you put 
+effort into this class. Definitely recommend.
+
+Quality 5.0 | Difficulty 4.0 | CSE3500
+People say Aguiar's section is harder, but his grading is very 
+forgiving. Homework is mostly completion if you follow the guidelines. 
+On exams are as long as you follow the general formula, you'll get most 
+points even if your solution is wrong. The final lets you recover earlier 
+exam points. Attend lecture and do the homework and you'll be fine.
+
+Quality 5.0 | Difficulty 3.0 | CSE3500
+Derek is very approachable and easy to talk to! His lectures can sometimes 
+move too quickly or be unclear, but he records them and makes them available. 
+He's also a lenient grader and fair, I got some problems completely wrong on 
+the first exam and still got over half credit for them. If you're proactive 
+and put in effort you'll do well
+
+Quality 3.0 | Difficulty 5.0 | CSE3500
+If you put in a TON of work, you will learn a lot from this course, 
+and it will be useful. However, it doesn't make sense how taking this 
+class with Aguiar compared to other professors is so much more difficult. 
+He is passionate and wants everyone to learn, yes. But this could almost be 
+a separate course entirely compared to the other sections.
+

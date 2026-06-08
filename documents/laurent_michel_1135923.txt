@@ -1,0 +1,73 @@
+PROFESSOR: Laurent Michel
+RMP_ID: 1135923
+URL: https://www.ratemyprofessors.com/professor/1135923
+
+=== OVERALL ===
+Overall rating: 4.4/5
+Would take again (%): 86%
+Level of difficulty (1-5): 4.1
+Top tags: Amazing lectures, Hilarious, Accessible outside class
+
+=== REVIEWS ===
+Quality 4.0 | Difficulty 5.0 | CSE1729
+1729 is a tough class, but Professor Michel managed to simplify the 
+concepts, and was very engaging. He expects a lot out of students, 
+based on difficulty of HW and the exams, but the curves are more than 
+fair. Exams are built to test your actual coding ability, so rigorously 
+studying the textbook and notes may not save you, if you can't code well.
+
+Quality 4.0 | Difficulty 4.0 | CSE1729
+Professor Michel clearly expects a lot out of his students, as 
+evidenced by his exams which are extremely hard. Yet at the same 
+time, his generous curves demonstrate that he understands how insanely 
+hard the exams are. His lectures are very engaging and he does very well 
+at explaining concepts that are both difficult to learn and to teach.
+
+Quality 4.0 | Difficulty 3.0 | CSE2100
+I got an A out of this class, but had to work pretty hard for it. 
+Significant curve as my actual average was a 78. Be ready for a 
+lot of long nights doing projects. Start early. If you do well on 
+the homeworks and merely pass the exams, you'll get an A.
+
+Quality 3.5 | Difficulty 5.0 | CSE2100
+Very tough class. Got a 20% on the midterm (and I have an A- homework/project average). 
+Still definitely learned a lot and he's willing to help you if you ask, he just 
+expects a lot from his students.
+
+Quality 4.0 | Difficulty 5.0 | CSE3100
+I almost failed the class because of how difficult it was, however he is one 
+of the best lecturers at the University. He runs an extremely tight ship in 
+terms of assignments and exams. The first exam average was around a 20%, and 
+half the class got a 0 on the second exam, including myself. At least 50% dropped it.
+
+Quality 2.0 | Difficulty 5.0 | CSE3100
+Laurent definitely knows his stuff but his expectations are unbelievably 
+high. Exams were not on par with homework. For the most part, partial credit 
+wasn't given on homework. If the program worked incorrectly, sometimes credit 
+was given. If the program didn't compile, no credit was given (this was also 
+true for exams which were in person coding).
+
+Quality 5.0 | Difficulty 4.0 | CSE3160
+Good teaching, can go very fast at times but not an issue if you ask or get 
+help outside of class. Cares for your success. He says you will do good if 
+you practice and that's definitely true. Attending class helps but only if 
+you actually try to follow the slides. The slides are fine.
+
+Quality 4.0 | Difficulty 4.0 | CSE3160
+Laurent's courses are very difficult, but he makes up for that by being a 
+really good professor. He cares a lot about your success and is always willing 
+to help if you're putting in the effort. I recommend taking a course with him 
+if you have the chance.
+
+Quality 3.0 | Difficulty 5.0 | CSE4100
+Class difficulty grows exponentially with time. Do well on early hw assignments, 
+so your hw average stays high. He is also willing to extend assignments if u ask. 
+He drops two lowest hw assignments, which is great. The exams are tough. You need 
+to study and practice a lot if you want to do good on them. Gives some small exam 
+hints in lectures.
+
+Quality 5.0 | Difficulty 1.0 | CSE4102
+Very good professor. Teaches course material in a very clear and appropriate manner. 
+Expects you to EARN your grade. Exams are hard (as others have mentioned) but if 
+you put in the hours necessary for practicing the material and doing the assignments 
+*independently* then an A is definitely attainable

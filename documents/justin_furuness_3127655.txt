@@ -1,0 +1,77 @@
+PROFESSOR: Justin Furuness
+RMP_ID: 3127655
+URL: https://www.ratemyprofessors.com/professor/3127655
+
+=== OVERALL ===
+Overall rating: 4.5/5
+Would take again (%): 89%
+Level of difficulty (1-5): 3.6
+Top tags: Caring, Helpful, Tough Grader
+
+=== REVIEWS ===
+Quality 4.0 | Difficulty 1.0 | CSE2050
+Justin is a new professor but good at explaining and very knowledgable 
+about what he does. My only complaint is that occasionally announcement were 
+made exclusively on Discord and not emailed, which lead to me along with half 
+my lecture coming in confused on the first cancellation.
+
+Quality 5.0 | Difficulty 3.0 | CSE2050
+Absolutely goated professor! Not only does he know the material, but he 
+is willing to teach you more about Python and give opportunities to become 
+an even better programmer. If you are struggling in this course, the best 
+tips I would say is to come in during office hours, do the practice tests, 
+and look for resources and videos online. Good luck!
+
+Quality 5.0 | Difficulty 3.0 | CSE2050
+Justin more than teaches, he helps you understand and apply the true 
+purpose of the content. He knows everything inside and out, and is 
+incredibly helpful at breaking down any problem/difficulty, explaining 
+it in a simple to comprehend and apply way. He is an awesome person too, 
+with enjoyable lectures. If given the option, I'd take him every time.
+
+Quality 5.0 | Difficulty 3.0 | CSE3150
+Of all the computer science professors I have taken at UConn, he stands 
+above the rest. It felt like he was the first professor who cared about 
+your knowledge of computer science and success post grad. For those stating 
+that exams weigh too much, suck it up. It's the department's solution to 
+cheating instead of letting AI prompt engineers graduate.
+
+Quality 5.0 | Difficulty 1.0 | CSE3150
+He was lenient with grading, available after class, and took student 
+feedback seriously. Put at least a little bit of effort into the class, 
+don't overuse AI, ask him questions, and actually remember material from 
+3100 to be successful in his class. Highly recommend him as a professor
+
+Quality 2.0 | Difficulty 5.0 | CSE3150
+Exams shouldn't outweigh projects by such a large margin in this course. 
+CS should enhance students' ability to reasonably utilize AI to help them 
+complete large-scale projects with thousands of lines of code, rather than 
+having them lose all points for a question in exam just because they forgot 
+a symbol and the code couldn't be compiled.
+
+Quality 2.0 | Difficulty 5.0 | CSE3150
+Nice person.The exams make up a large portion of the overall grade. 
+The syllabus also states that scoring below 60 on any single exam 
+results in failing the course. I found the grading policy difficult to 
+understand, especially with changes during the semester. If I had other 
+options, I might have chosen a different course.
+
+Quality 5.0 | Difficulty 3.0 | CSE3150
+I was unable to get into the class this fall but ended up continuing 
+to go to the lectures because it was just a really good class. He 
+knows the content backwards and forwards and has good feel for how 
+students perceive the material. He saw me outside class and gave me 
+material/help in the course even though I was not enrolled. Great instructor.
+
+Quality 5.0 | Difficulty 4.0 | CSE3500
+He is knowledgeable and kind, but CSE 3500 with him is stressful. 
+Its all programming, no proofs, to prepare you for interviews in the 
+industry. He grades strictly and exams are worth 80 percent of the grade. 
+If you want a challenge or improve programming skills I would recommend, 
+otherwise go with someone else!
+
+Quality 5.0 | Difficulty 4.0 | CSE3500
+A great professor who I've learned loads from! UConn does a pretty poor 
+ob of making sure their CS students are competent programmers, and Justin 
+is fixing that in my opinion. I enjoyed the class, and it was one of the 
+few I've taken where I felt like the knowledge was worth what I was paying for.

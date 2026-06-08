@@ -44,14 +44,17 @@ are real reviews that students who have taken the class submitted.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-350 tokens
+230 tokens
 
 **Overlap:**
 20 tokens
 
 **Reasoning:**
 Since each review is separate from each other, the overlap doesn't have to be as drastic since it will be searching
-for key words only. Recursive chunking strategy is best for these documents.
+for key words only. Recursive chunking strategy is best for these documents. Chunk size is capped at 230 tokens
+(rather than a larger value) because all-MiniLM-L6-v2 only embeds the first 256 tokens of any input — anything
+beyond that is silently truncated, so 230 leaves headroom for the "Professor:" prefix while keeping every chunk
+fully within the model's window. At this size the recursive splitter packs ~2-3 short reviews per chunk.
 
 ---
 
@@ -114,10 +117,10 @@ I might use a larger hosted model like OpenAI text-embedding-3-large for better 
 ```mermaid
 flowchart LR
     A["Document Ingestion:<br/>RateMyProfessors pages<br/>requests + BeautifulSoup"]
-    --> B["Chunking:<br/>Recursive, 350 tokens<br/>20-token overlap"]
+    --> B["Chunking:<br/>Recursive, 230 tokens<br/>20-token overlap"]
     --> C["Embedding + Vector Store:<br/>all-MiniLM-L6-v2<br/>stored in ChromaDB"]
     --> D["Retrieval:<br/>Top-k similarity search (k=5)<br/>ChromaDB query"]
-    --> E["Generation:<br/>LLM answers from retrieval<br/>Claude (claude-opus-4-8)"]
+    --> E["Generation:<br/>LLM answers from retrieval<br/>Groq (llama-3.3-70b-versatile)"]
 
     Q(["User question"]) --> D
 ```
