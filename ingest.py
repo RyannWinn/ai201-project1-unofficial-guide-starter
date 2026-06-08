@@ -250,12 +250,14 @@ def chunk_document(doc: ProfessorDoc, token_len) -> list[dict]:
     chunk so figures like 'would take again %' stay retrievable; reviews are
     packed together by the recursive splitter."""
     out: list[dict] = []
+    position = 0  # document-wide running counter -> chunk's position in this file
 
     def make(text: str, section: str, idx: int) -> dict:
+        nonlocal position
         embedded = text
         if PREPEND_PROFESSOR and doc.professor:
             embedded = f"Professor: {doc.professor}\n{text}"
-        return {
+        chunk = {
             "id": f"{doc.rmp_id or doc.source_file}-{section}-{idx}",
             "text": embedded,
             "metadata": {
@@ -264,9 +266,15 @@ def chunk_document(doc: ProfessorDoc, token_len) -> list[dict]:
                 "url": doc.url,
                 "source_file": doc.source_file,
                 "section": section,
+                # chunk_index is the 0-based position of this chunk WITHIN its
+                # source document, counting across all sections in order. Used
+                # for attribution later (e.g. "Strimple review, chunk 2").
+                "chunk_index": position,
                 "tokens": token_len(embedded),
             },
         }
+        position += 1
+        return chunk
 
     if doc.overall:
         for i, piece in enumerate(split_text(doc.overall, token_len)):

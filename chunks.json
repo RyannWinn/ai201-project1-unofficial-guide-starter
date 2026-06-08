@@ -8,7 +8,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1691848",
       "source_file": "alexander_russell_1691848.txt",
       "section": "overall",
-      "tokens": 36
+      "chunk_index": 0,
+      "tokens": 49
     }
   },
   {
@@ -20,7 +21,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1691848",
       "source_file": "alexander_russell_1691848.txt",
       "section": "reviews",
-      "tokens": 166
+      "chunk_index": 1,
+      "tokens": 147
     }
   },
   {
@@ -32,7 +34,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1691848",
       "source_file": "alexander_russell_1691848.txt",
       "section": "reviews",
-      "tokens": 233
+      "chunk_index": 2,
+      "tokens": 225
     }
   },
   {
@@ -44,7 +47,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1691848",
       "source_file": "alexander_russell_1691848.txt",
       "section": "reviews",
-      "tokens": 194
+      "chunk_index": 3,
+      "tokens": 183
     }
   },
   {
@@ -56,6 +60,7 @@
       "url": "https://www.ratemyprofessors.com/professor/1691848",
       "source_file": "alexander_russell_1691848.txt",
       "section": "reviews",
+      "chunk_index": 4,
       "tokens": 79
     }
   },
@@ -68,7 +73,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2872422",
       "source_file": "david_strimple_2872422.txt",
       "section": "overall",
-      "tokens": 38
+      "chunk_index": 0,
+      "tokens": 52
     }
   },
   {
@@ -80,7 +86,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2872422",
       "source_file": "david_strimple_2872422.txt",
       "section": "reviews",
-      "tokens": 208
+      "chunk_index": 1,
+      "tokens": 197
     }
   },
   {
@@ -92,43 +99,34 @@
       "url": "https://www.ratemyprofessors.com/professor/2872422",
       "source_file": "david_strimple_2872422.txt",
       "section": "reviews",
-      "tokens": 169
+      "chunk_index": 2,
+      "tokens": 163
     }
   },
   {
     "id": "2872422-reviews-2",
-    "text": "Professor: David Strimple\nWhile I don't think he was quite as bad as some of these reviews make it seem, there is definitely room for improvement. He is definitely a harsh grader and will take points off for very minor mistakes. Regardless, I will say I do feel like I learned a lot from him and his class. Nice person too, don't be afraid to talk to him during office hours.\n\nHorrible professor. Homework is difficult and hard to understand because of how he writes it. Talks too much without even teaching properly. Does examples in class and somehow will mix himself up and do it wrong. Grades horribly because he wants it to be exactly how he does it and any other way is wrong.",
+    "text": "Professor: David Strimple\nWhile I don't think he was quite as bad as some of these reviews make it seem, there is definitely room for improvement. He is definitely a harsh grader and will take points off for very minor mistakes. Regardless, I will say I do feel like I learned a lot from him and his class. Nice person too, don't be afraid to talk to him during office hours.\n\nHorrible professor. Homework is difficult and hard to understand because of how he writes it. Talks too much without even teaching properly. Does examples in class and somehow will mix himself up and do it wrong. Grades horribly because he wants it to be exactly how he does it and any other way is wrong.\n\n1 is not low enough for this class made me want to die. This professor is nowhere near a professional and honestly should've chosen a different career. He doesn't know what he is teaching and you will struggle to comprehend the way this professor grades his assignment. I am warning everyone for your own sake do not take this course, thank me later",
     "metadata": {
       "professor": "David Strimple",
       "rmp_id": "2872422",
       "url": "https://www.ratemyprofessors.com/professor/2872422",
       "source_file": "david_strimple_2872422.txt",
       "section": "reviews",
-      "tokens": 164
+      "chunk_index": 3,
+      "tokens": 217
     }
   },
   {
     "id": "2872422-reviews-3",
-    "text": "Professor: David Strimple\n1 is not low enough for this class made me want to die. This professor is nowhere near a professional and honestly should've chosen a different career. He doesn't know what he is teaching and you will struggle to comprehend the way this professor grades his assignment. I am warning everyone for your own sake do not take this course, thank me later\n\nThe capacities of this platform are insufficient to express the pure vitriol I hold for this caricature of a class. I'll withhold, simply because I do not think Strimple is inherently a bad man. That being said, he makes a Professor like Jerry Shi look like a shining example of what the CS Department should aspire to be. Ignominiously disgraceful.",
+    "text": "Professor: David Strimple\nThe capacities of this platform are insufficient to express the pure vitriol I hold for this caricature of a class. I'll withhold, simply because I do not think Strimple is inherently a bad man. That being said, he makes a Professor like Jerry Shi look like a shining example of what the CS Department should aspire to be. Ignominiously disgraceful.\n\nI was very excited for 3200. BUT the lectures are difficult to follow because he makes errors constantly and most relied on videos he posted last year. Expect an announcement each class fixing errors he made. HW instructions are vague. Historically he cares more about catching students cheating than producing quality study material, do better pls",
     "metadata": {
       "professor": "David Strimple",
       "rmp_id": "2872422",
       "url": "https://www.ratemyprofessors.com/professor/2872422",
       "source_file": "david_strimple_2872422.txt",
       "section": "reviews",
-      "tokens": 164
-    }
-  },
-  {
-    "id": "2872422-reviews-4",
-    "text": "Professor: David Strimple\nI was very excited for 3200. BUT the lectures are difficult to follow because he makes errors constantly and most relied on videos he posted last year. Expect an announcement each class fixing errors he made. HW instructions are vague. Historically he cares more about catching students cheating than producing quality study material, do better pls",
-    "metadata": {
-      "professor": "David Strimple",
-      "rmp_id": "2872422",
-      "url": "https://www.ratemyprofessors.com/professor/2872422",
-      "source_file": "david_strimple_2872422.txt",
-      "section": "reviews",
-      "tokens": 77
+      "chunk_index": 4,
+      "tokens": 150
     }
   },
   {
@@ -140,7 +138,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2460362",
       "source_file": "derek_aguiar_2460362.txt",
       "section": "overall",
-      "tokens": 35
+      "chunk_index": 0,
+      "tokens": 49
     }
   },
   {
@@ -152,7 +151,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2460362",
       "source_file": "derek_aguiar_2460362.txt",
       "section": "reviews",
-      "tokens": 213
+      "chunk_index": 1,
+      "tokens": 190
     }
   },
   {
@@ -164,31 +164,21 @@
       "url": "https://www.ratemyprofessors.com/professor/2460362",
       "source_file": "derek_aguiar_2460362.txt",
       "section": "reviews",
-      "tokens": 204
+      "chunk_index": 2,
+      "tokens": 202
     }
   },
   {
     "id": "2460362-reviews-2",
-    "text": "Professor: Derek Aguiar\nPeople say Aguiar's section is harder, but his grading is very forgiving. Homework is mostly completion if you follow the guidelines. On exams are as long as you follow the general formula, you'll get most points even if your solution is wrong. The final lets you recover earlier exam points. Attend lecture and do the homework and you'll be fine.\n\nDerek is very approachable and easy to talk to! His lectures can sometimes move too quickly or be unclear, but he records them and makes them available. He's also a lenient grader and fair, I got some problems completely wrong on the first exam and still got over half credit for them. If you're proactive and put in effort you'll do well",
+    "text": "Professor: Derek Aguiar\nPeople say Aguiar's section is harder, but his grading is very forgiving. Homework is mostly completion if you follow the guidelines. On exams are as long as you follow the general formula, you'll get most points even if your solution is wrong. The final lets you recover earlier exam points. Attend lecture and do the homework and you'll be fine.\n\nDerek is very approachable and easy to talk to! His lectures can sometimes move too quickly or be unclear, but he records them and makes them available. He's also a lenient grader and fair, I got some problems completely wrong on the first exam and still got over half credit for them. If you're proactive and put in effort you'll do well\n\nIf you put in a TON of work, you will learn a lot from this course, and it will be useful. However, it doesn't make sense how taking this class with Aguiar compared to other professors is so much more difficult. He is passionate and wants everyone to learn, yes. But this could almost be a separate course entirely compared to the other sections.",
     "metadata": {
       "professor": "Derek Aguiar",
       "rmp_id": "2460362",
       "url": "https://www.ratemyprofessors.com/professor/2460362",
       "source_file": "derek_aguiar_2460362.txt",
       "section": "reviews",
-      "tokens": 162
-    }
-  },
-  {
-    "id": "2460362-reviews-3",
-    "text": "Professor: Derek Aguiar\nIf you put in a TON of work, you will learn a lot from this course, and it will be useful. However, it doesn't make sense how taking this class with Aguiar compared to other professors is so much more difficult. He is passionate and wants everyone to learn, yes. But this could almost be a separate course entirely compared to the other sections.",
-    "metadata": {
-      "professor": "Derek Aguiar",
-      "rmp_id": "2460362",
-      "url": "https://www.ratemyprofessors.com/professor/2460362",
-      "source_file": "derek_aguiar_2460362.txt",
-      "section": "reviews",
-      "tokens": 87
+      "chunk_index": 3,
+      "tokens": 235
     }
   },
   {
@@ -200,7 +190,8 @@
       "url": "https://www.ratemyprofessors.com/professor/3127655",
       "source_file": "justin_furuness_3127655.txt",
       "section": "overall",
-      "tokens": 32
+      "chunk_index": 0,
+      "tokens": 48
     }
   },
   {
@@ -212,7 +203,8 @@
       "url": "https://www.ratemyprofessors.com/professor/3127655",
       "source_file": "justin_furuness_3127655.txt",
       "section": "reviews",
-      "tokens": 222
+      "chunk_index": 1,
+      "tokens": 204
     }
   },
   {
@@ -224,7 +216,8 @@
       "url": "https://www.ratemyprofessors.com/professor/3127655",
       "source_file": "justin_furuness_3127655.txt",
       "section": "reviews",
-      "tokens": 218
+      "chunk_index": 2,
+      "tokens": 208
     }
   },
   {
@@ -236,7 +229,8 @@
       "url": "https://www.ratemyprofessors.com/professor/3127655",
       "source_file": "justin_furuness_3127655.txt",
       "section": "reviews",
-      "tokens": 229
+      "chunk_index": 3,
+      "tokens": 208
     }
   },
   {
@@ -248,7 +242,8 @@
       "url": "https://www.ratemyprofessors.com/professor/3127655",
       "source_file": "justin_furuness_3127655.txt",
       "section": "reviews",
-      "tokens": 78
+      "chunk_index": 4,
+      "tokens": 74
     }
   },
   {
@@ -260,7 +255,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1135923",
       "source_file": "laurent_michel_1135923.txt",
       "section": "overall",
-      "tokens": 35
+      "chunk_index": 0,
+      "tokens": 47
     }
   },
   {
@@ -272,7 +268,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1135923",
       "source_file": "laurent_michel_1135923.txt",
       "section": "reviews",
-      "tokens": 233
+      "chunk_index": 1,
+      "tokens": 210
     }
   },
   {
@@ -284,7 +281,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1135923",
       "source_file": "laurent_michel_1135923.txt",
       "section": "reviews",
-      "tokens": 205
+      "chunk_index": 2,
+      "tokens": 202
     }
   },
   {
@@ -296,7 +294,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1135923",
       "source_file": "laurent_michel_1135923.txt",
       "section": "reviews",
-      "tokens": 221
+      "chunk_index": 3,
+      "tokens": 200
     }
   },
   {
@@ -308,7 +307,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1135923",
       "source_file": "laurent_michel_1135923.txt",
       "section": "reviews",
-      "tokens": 68
+      "chunk_index": 4,
+      "tokens": 61
     }
   },
   {
@@ -320,7 +320,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2754387",
       "source_file": "lina_kloub_2754387.txt",
       "section": "overall",
-      "tokens": 35
+      "chunk_index": 0,
+      "tokens": 49
     }
   },
   {
@@ -332,7 +333,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2754387",
       "source_file": "lina_kloub_2754387.txt",
       "section": "reviews",
-      "tokens": 233
+      "chunk_index": 1,
+      "tokens": 220
     }
   },
   {
@@ -344,7 +346,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2754387",
       "source_file": "lina_kloub_2754387.txt",
       "section": "reviews",
-      "tokens": 160
+      "chunk_index": 2,
+      "tokens": 163
     }
   },
   {
@@ -356,7 +359,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2754387",
       "source_file": "lina_kloub_2754387.txt",
       "section": "reviews",
-      "tokens": 157
+      "chunk_index": 3,
+      "tokens": 162
     }
   },
   {
@@ -368,7 +372,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2754387",
       "source_file": "lina_kloub_2754387.txt",
       "section": "reviews",
-      "tokens": 84
+      "chunk_index": 4,
+      "tokens": 94
     }
   },
   {
@@ -380,7 +385,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2963544",
       "source_file": "olga_glebova_2963544.txt",
       "section": "overall",
-      "tokens": 40
+      "chunk_index": 0,
+      "tokens": 54
     }
   },
   {
@@ -392,7 +398,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2963544",
       "source_file": "olga_glebova_2963544.txt",
       "section": "reviews",
-      "tokens": 188
+      "chunk_index": 1,
+      "tokens": 175
     }
   },
   {
@@ -404,7 +411,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2963544",
       "source_file": "olga_glebova_2963544.txt",
       "section": "reviews",
-      "tokens": 224
+      "chunk_index": 2,
+      "tokens": 214
     }
   },
   {
@@ -416,7 +424,8 @@
       "url": "https://www.ratemyprofessors.com/professor/2963544",
       "source_file": "olga_glebova_2963544.txt",
       "section": "reviews",
-      "tokens": 220
+      "chunk_index": 3,
+      "tokens": 202
     }
   },
   {
@@ -428,55 +437,60 @@
       "url": "https://www.ratemyprofessors.com/professor/3044671",
       "source_file": "swamy_narayan_jignaas_pattipati_3044671.txt",
       "section": "overall",
-      "tokens": 36
+      "chunk_index": 0,
+      "tokens": 53
     }
   },
   {
     "id": "3044671-reviews-0",
-    "text": "Professor: Swamy Narayan Jignaas Pattipati\nHe was a very good professor who despite being new motivated his students.\n\nHe's pretty understanding of circumstances that may prevent work from getting done, and allows you to make it up if you have a valid reason for it. He's accessible outside of class, and even in the lectures he often asks for input on his teaching style, to see if it actually helps us learn.\n\nProfessor Jignaas Pattipati brings great energy to class, and really encourages his students to participate in lecture by asking/answering questions, which creates an environment conducive to learning. My only \"complaint\" (which I found not to be that bad) was the fact that he clicks through the lecture slides really fast, but to each their own.",
+    "text": "Professor: Swamy Narayan Jignaas Pattipati\nHe was a very good professor who despite being new motivated his students.\n\nHe's pretty understanding of circumstances that may prevent work from getting done, and allows you to make it up if you have a valid reason for it. He's accessible outside of class, and even in the lectures he often asks for input on his teaching style, to see if it actually helps us learn.\n\nProfessor Jignaas Pattipati brings great energy to class, and really encourages his students to participate in lecture by asking/answering questions, which creates an environment conducive to learning. My only \"complaint\" (which I found not to be that bad) was the fact that he clicks through the lecture slides really fast, but to each their own.\n\nBest prof for CSE3100. If you are willing to learn, you will gain a lot. He is passionate and truly cares about student success. He prepares you for more than just exams. He is very strict about ai,do not use it, you will get caught. Sometimes explanations can be unclear, but he is very accessible outside of class and helpful in office hours",
     "metadata": {
       "professor": "Swamy Narayan Jignaas Pattipati",
       "rmp_id": "3044671",
       "url": "https://www.ratemyprofessors.com/professor/3044671",
       "source_file": "swamy_narayan_jignaas_pattipati_3044671.txt",
       "section": "reviews",
-      "tokens": 165
+      "chunk_index": 1,
+      "tokens": 235
     }
   },
   {
     "id": "3044671-reviews-1",
-    "text": "Professor: Swamy Narayan Jignaas Pattipati\nBest prof for CSE3100. If you are willing to learn, you will gain a lot. He is passionate and truly cares about student success. He prepares you for more than just exams. He is very strict about ai,do not use it, you will get caught. Sometimes explanations can be unclear, but he is very accessible outside of class and helpful in office hours\n\nHe clearly cares about his teaching but he doesn't actually do anything in lecture to help students. Lot's of extra credit opportunities and he is very strict about AI usage. He has potential but he cannot lecture to save his life so I had to learn everything myself.\n\nThe course along with the exams and hw are pretty tough however Swamy knows this and takes it into account while grading. Show up to lecture, pay attention and you'll be rewarded. Dude is hilarious too, always looked forward to lecture cause it was like going to a comedy club. Don't use AI, code on your own, ask for help.",
+    "text": "Professor: Swamy Narayan Jignaas Pattipati\nHe clearly cares about his teaching but he doesn't actually do anything in lecture to help students. Lot's of extra credit opportunities and he is very strict about AI usage. He has potential but he cannot lecture to save his life so I had to learn everything myself.\n\nThe course along with the exams and hw are pretty tough however Swamy knows this and takes it into account while grading. Show up to lecture, pay attention and you'll be rewarded. Dude is hilarious too, always looked forward to lecture cause it was like going to a comedy club. Don't use AI, code on your own, ask for help.\n\nSwamy is a chill guy, his lectures are really good. Takes the time to answer questions. Exams are hard asf but he is forgiving with his grading for the most part, just don't cheat or get caught or he WILL get you. If you go to lecture and take time to do the homework you should be fine.",
     "metadata": {
       "professor": "Swamy Narayan Jignaas Pattipati",
       "rmp_id": "3044671",
       "url": "https://www.ratemyprofessors.com/professor/3044671",
       "source_file": "swamy_narayan_jignaas_pattipati_3044671.txt",
       "section": "reviews",
-      "tokens": 229
+      "chunk_index": 2,
+      "tokens": 208
     }
   },
   {
     "id": "3044671-reviews-2",
-    "text": "Professor: Swamy Narayan Jignaas Pattipati\nSwamy is a chill guy, his lectures are really good. Takes the time to answer questions. Exams are hard asf but he is forgiving with his grading for the most part, just don't cheat or get caught or he WILL get you. If you go to lecture and take time to do the homework you should be fine.\n\nPeople that are giving awful ratings either got caught cheating, or only use AI on HW (btw Wei Wei makes the HW). I took this class in Fall 24 and although he can get lectures done pretty quick, he went the extra mile with sample code and was really understanding when I got sick before the first exam with catching me up and rescheduling.",
+    "text": "Professor: Swamy Narayan Jignaas Pattipati\nPeople that are giving awful ratings either got caught cheating, or only use AI on HW (btw Wei Wei makes the HW). I took this class in Fall 24 and although he can get lectures done pretty quick, he went the extra mile with sample code and was really understanding when I got sick before the first exam with catching me up and rescheduling.\n\nOverall not a bad professor but it's a hard class that no matter what you need to put effort if you want to get a decent grade. Exams are extremely difficult and formatted to catch cheating. Super strict on Ai/cheating. Very overhyped in my opinion and can be rude but as long as you take the time to learn the material you should be fine.",
     "metadata": {
       "professor": "Swamy Narayan Jignaas Pattipati",
       "rmp_id": "3044671",
       "url": "https://www.ratemyprofessors.com/professor/3044671",
       "source_file": "swamy_narayan_jignaas_pattipati_3044671.txt",
       "section": "reviews",
-      "tokens": 165
+      "chunk_index": 3,
+      "tokens": 162
     }
   },
   {
     "id": "3044671-reviews-3",
-    "text": "Professor: Swamy Narayan Jignaas Pattipati\nOverall not a bad professor but it's a hard class that no matter what you need to put effort if you want to get a decent grade. Exams are extremely difficult and formatted to catch cheating. Super strict on Ai/cheating. Very overhyped in my opinion and can be rude but as long as you take the time to learn the material you should be fine.\n\nSwamy is a goated lecturer. His lectures are interesting and engaging, w/slides posted on HuskyCT. However, his grading can be tough. For exams, write simple answers that go into depth but not too much as extra details can be marked wrong. At the time of this review, an exam replacement was offered for the final; don't bank on it, though. GL!",
+    "text": "Professor: Swamy Narayan Jignaas Pattipati\nSwamy is a goated lecturer. His lectures are interesting and engaging, w/slides posted on HuskyCT. However, his grading can be tough. For exams, write simple answers that go into depth but not too much as extra details can be marked wrong. At the time of this review, an exam replacement was offered for the final; don't bank on it, though. GL!",
     "metadata": {
       "professor": "Swamy Narayan Jignaas Pattipati",
       "rmp_id": "3044671",
       "url": "https://www.ratemyprofessors.com/professor/3044671",
       "source_file": "swamy_narayan_jignaas_pattipati_3044671.txt",
       "section": "reviews",
-      "tokens": 170
+      "chunk_index": 4,
+      "tokens": 91
     }
   },
   {
@@ -488,55 +502,47 @@
       "url": "https://www.ratemyprofessors.com/professor/2945690",
       "source_file": "timothy_curry_2945690.txt",
       "section": "overall",
-      "tokens": 34
+      "chunk_index": 0,
+      "tokens": 46
     }
   },
   {
     "id": "2945690-reviews-0",
-    "text": "Professor: Timothy Curry\nGreat guy but not great professor. It's basically a teach yourself kind of class. He gives homework due one week and the next tries to teach us about it. It's too little too late. Tests make no sense and labs are pointless. I am also going to be so real when I say the guy talks in exclamation points. Goodluck and Godspeed.\n\nProf. Curry was a great professor but the way the class was structured makes his role limited. At least in the Fall 2024 semester, there was only 50-minute lecture a week, so you didn't have much time to interact with him. He was understanding and you could tell he was passionate about what he was teaching, so do reach out to him if you need help!",
+    "text": "Professor: Timothy Curry\nGreat guy but not great professor. It's basically a teach yourself kind of class. He gives homework due one week and the next tries to teach us about it. It's too little too late. Tests make no sense and labs are pointless. I am also going to be so real when I say the guy talks in exclamation points. Goodluck and Godspeed.\n\nProf. Curry was a great professor but the way the class was structured makes his role limited. At least in the Fall 2024 semester, there was only 50-minute lecture a week, so you didn't have much time to interact with him. He was understanding and you could tell he was passionate about what he was teaching, so do reach out to him if you need help!\n\nCourse material is tough if you have never coded before but professor Curry makes concepts very easy to understand during his lectures. Unfortunately most of the content is learned through videos rather than his in-person lectures and is more like an online course. Do the homework and you'll be fine (they're also weighted the same as exams)",
     "metadata": {
       "professor": "Timothy Curry",
       "rmp_id": "2945690",
       "url": "https://www.ratemyprofessors.com/professor/2945690",
       "source_file": "timothy_curry_2945690.txt",
       "section": "reviews",
-      "tokens": 170
+      "chunk_index": 1,
+      "tokens": 228
     }
   },
   {
     "id": "2945690-reviews-1",
-    "text": "Professor: Timothy Curry\nCourse material is tough if you have never coded before but professor Curry makes concepts very easy to understand during his lectures. Unfortunately most of the content is learned through videos rather than his in-person lectures and is more like an online course. Do the homework and you'll be fine (they're also weighted the same as exams)\n\nThe material he teaches is difficult and that doesn't change, but he makes a great effort to teach and dissect everything to a newbie level. He is very caring and will always offer help when asked. If you could take any class with him, pick him if you want to get a decent grade/understanding of the material. But you also need to put the effort too!\n\nIt's very refreshing to have an instructor that is as passionate about what he does and is actually invested in students' learning. 2050 is a difficult class, but if you participate it makes the learning much easier, especially with an instructor like Curry. Highly recommend Curry!",
+    "text": "Professor: Timothy Curry\nThe material he teaches is difficult and that doesn't change, but he makes a great effort to teach and dissect everything to a newbie level. He is very caring and will always offer help when asked. If you could take any class with him, pick him if you want to get a decent grade/understanding of the material. But you also need to put the effort too!\n\nIt's very refreshing to have an instructor that is as passionate about what he does and is actually invested in students' learning. 2050 is a difficult class, but if you participate it makes the learning much easier, especially with an instructor like Curry. Highly recommend Curry!\n\nTim Curry is a great guy with a great personality and very passionate, but unfortunately passion doesn't translate to teaching ability. Always has good slides, but doesn't give good lectures. The class is difficult but if you stay on top of things its manageable. Makes you do a few microsoft forms for attendance each class.",
     "metadata": {
       "professor": "Timothy Curry",
       "rmp_id": "2945690",
       "url": "https://www.ratemyprofessors.com/professor/2945690",
       "source_file": "timothy_curry_2945690.txt",
       "section": "reviews",
-      "tokens": 224
+      "chunk_index": 2,
+      "tokens": 204
     }
   },
   {
     "id": "2945690-reviews-2",
-    "text": "Professor: Timothy Curry\nTim Curry is a great guy with a great personality and very passionate, but unfortunately passion doesn't translate to teaching ability. Always has good slides, but doesn't give good lectures. The class is difficult but if you stay on top of things its manageable. Makes you do a few microsoft forms for attendance each class.\n\nHe deleted my first 3 ratings, however, he is a very boring professor who relies too much on his slides which oftentimes are completely unhelpful when it comes to doing the homework. His class and way of teaching is very boring. TA's are unhelp apart from Victor Lek, and Discord helps at the start but as the semester progresses TA's abandon it.\n\nCurry is the goat but this class is vry hard.",
+    "text": "Professor: Timothy Curry\nHe deleted my first 3 ratings, however, he is a very boring professor who relies too much on his slides which oftentimes are completely unhelpful when it comes to doing the homework. His class and way of teaching is very boring. TA's are unhelp apart from Victor Lek, and Discord helps at the start but as the semester progresses TA's abandon it.\n\nCurry is the goat but this class is vry hard.\n\nGood professor, good lectures, class overall was fairly easy, too easy. If you are deciding between 3150 or 3160 take this class, its A LOT less work. midterm was live coding, final was 17 pages of coding on paper. labs and hw were all easy. only issue i had with his teaching style was the FORCED attendance (10% of grade) via in-class polls.\n\nProf. Curry is good for CSE 3140! Lectures are helpful to understand the labs",
     "metadata": {
       "professor": "Timothy Curry",
       "rmp_id": "2945690",
       "url": "https://www.ratemyprofessors.com/professor/2945690",
       "source_file": "timothy_curry_2945690.txt",
       "section": "reviews",
-      "tokens": 169
-    }
-  },
-  {
-    "id": "2945690-reviews-3",
-    "text": "Professor: Timothy Curry\nCurry is the goat but this class is vry hard.\n\nGood professor, good lectures, class overall was fairly easy, too easy. If you are deciding between 3150 or 3160 take this class, its A LOT less work. midterm was live coding, final was 17 pages of coding on paper. labs and hw were all easy. only issue i had with his teaching style was the FORCED attendance (10% of grade) via in-class polls.\n\nProf. Curry is good for CSE 3140! Lectures are helpful to understand the labs",
-    "metadata": {
-      "professor": "Timothy Curry",
-      "rmp_id": "2945690",
-      "url": "https://www.ratemyprofessors.com/professor/2945690",
-      "source_file": "timothy_curry_2945690.txt",
-      "section": "reviews",
-      "tokens": 117
+      "chunk_index": 3,
+      "tokens": 198
     }
   },
   {
@@ -548,31 +554,34 @@
       "url": "https://www.ratemyprofessors.com/professor/1282131",
       "source_file": "zhije_jerry_shi_1282131.txt",
       "section": "overall",
-      "tokens": 38
+      "chunk_index": 0,
+      "tokens": 53
     }
   },
   {
     "id": "1282131-reviews-0",
-    "text": "Professor: Zhijie 'Jerry Shi\nWow, what an underrated professor. I was afraid to take this class with him as I had a conflict with Scoggin's, but I had nothing to worry about. Shi does a great job presenting the content, answering questions, and stimulating interest in computer architecture. Give him a chance, REALLY participate, and you will see him as I do!\n\nWhat a waste of time and money. Lectures are bad, along with slides, HW and labs. Tough exams weighted 70% with 50 to 60% averages. No curve. No effort is put into improving the course.\n\nNEVER TAKE 3666 WITH THIS GUY. exams are weighting 70% of your overall grade, so you could pass this course without attending the lad and lecture and you could forget about the lab and homework if you can do good on the exams, and he is always mumbling during the lecture, he just enjoy watching students suffer. worst CS professor ever.",
+    "text": "Professor: Zhijie 'Jerry Shi\nWow, what an underrated professor. I was afraid to take this class with him as I had a conflict with Scoggin's, but I had nothing to worry about. Shi does a great job presenting the content, answering questions, and stimulating interest in computer architecture. Give him a chance, REALLY participate, and you will see him as I do!\n\nWhat a waste of time and money. Lectures are bad, along with slides, HW and labs. Tough exams weighted 70% with 50 to 60% averages. No curve. No effort is put into improving the course.\n\nNEVER TAKE 3666 WITH THIS GUY. exams are weighting 70% of your overall grade, so you could pass this course without attending the lad and lecture and you could forget about the lab and homework if you can do good on the exams, and he is always mumbling during the lecture, he just enjoy watching students suffer. worst CS professor ever.\n\nHis exams are straightforward and cover exactly what you'd expect based on the material. The lectures are pretty clear. He is not that bad.",
     "metadata": {
       "professor": "Zhijie 'Jerry Shi",
       "rmp_id": "1282131",
       "url": "https://www.ratemyprofessors.com/professor/1282131",
       "source_file": "zhije_jerry_shi_1282131.txt",
       "section": "reviews",
-      "tokens": 205
+      "chunk_index": 1,
+      "tokens": 227
     }
   },
   {
     "id": "1282131-reviews-1",
-    "text": "Professor: Zhijie 'Jerry Shi\nHis exams are straightforward and cover exactly what you'd expect based on the material. The lectures are pretty clear. He is not that bad.\n\nThe one comment on here that is 5 stars is from one of the TA's This is a hard class. Jerry Shi was involved in a shady scandal 10 years ago. He is hard to understand during lecture and it's required. He hates answering questions. We were promised a final grade curve, but after the final, he just ghosted anyone who asked about it.\n\nThis class is bad, but Jerry makes it worse. I would show up to the other professor's lectures because I literally could not understand Jerry's rambling. He's not an evil person and his exams aren't tougher, but you won't get anything out of his lectures because he doesn't explain anything well, his extra credit was harder, and his curve was less.",
+    "text": "Professor: Zhijie 'Jerry Shi\nThe one comment on here that is 5 stars is from one of the TA's This is a hard class. Jerry Shi was involved in a shady scandal 10 years ago. He is hard to understand during lecture and it's required. He hates answering questions. We were promised a final grade curve, but after the final, he just ghosted anyone who asked about it.\n\nThis class is bad, but Jerry makes it worse. I would show up to the other professor's lectures because I literally could not understand Jerry's rambling. He's not an evil person and his exams aren't tougher, but you won't get anything out of his lectures because he doesn't explain anything well, his extra credit was harder, and his curve was less.",
     "metadata": {
       "professor": "Zhijie 'Jerry Shi",
       "rmp_id": "1282131",
       "url": "https://www.ratemyprofessors.com/professor/1282131",
       "source_file": "zhije_jerry_shi_1282131.txt",
       "section": "reviews",
-      "tokens": 199
+      "chunk_index": 2,
+      "tokens": 167
     }
   },
   {
@@ -584,7 +593,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1282131",
       "source_file": "zhije_jerry_shi_1282131.txt",
       "section": "reviews",
-      "tokens": 230
+      "chunk_index": 3,
+      "tokens": 232
     }
   },
   {
@@ -596,7 +606,8 @@
       "url": "https://www.ratemyprofessors.com/professor/1282131",
       "source_file": "zhije_jerry_shi_1282131.txt",
       "section": "reviews",
-      "tokens": 82
+      "chunk_index": 4,
+      "tokens": 76
     }
   }
 ]
