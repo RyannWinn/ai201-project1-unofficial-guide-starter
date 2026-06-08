@@ -155,15 +155,6 @@ from the spec wasn't enough to keep answers grounded in the right profesor's rev
 
 ## AI Usage
 
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
-
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
-
 **Instance 1**
 
 - *What I gave the AI:* My Documents and Chunking Strategy sections in my `planning.md` (the 10 RateMyProfesors

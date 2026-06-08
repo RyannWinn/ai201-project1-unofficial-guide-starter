@@ -9,17 +9,12 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
 The domain I chose is Rate My Profesors. This knowledge is valuable because these 
 are real reviews that students who have taken the class submitted.
 
 ---
 
 ## Documents
-
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
@@ -37,11 +32,6 @@ are real reviews that students who have taken the class submitted.
 ---
 
 ## Chunking Strategy
-
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
 230 tokens
@@ -79,11 +69,6 @@ I might use a larger hosted model like OpenAI text-embedding-3-large for better 
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
-
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | Are Lina Kloub's exams difficult? | Lina Kloub's exams might seem a bit difficult but fair since the material on the exams if everything she has shown. |
@@ -96,10 +81,6 @@ I might use a larger hosted model like OpenAI text-embedding-3-large for better 
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
-
 1. Off-topic and wrong-profesor retrieval since most of the RMP pages have similar or near identicial language. 
 
 2. RMP reviews openly disagree and there is no ground truth.
@@ -107,12 +88,6 @@ I might use a larger hosted model like OpenAI text-embedding-3-large for better 
 ---
 
 ## Architecture
-
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ```mermaid
 flowchart LR
@@ -128,16 +103,6 @@ flowchart LR
 ---
 
 ## AI Tool Plan
-
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
-
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
 I plan on giving Claude Code my Documents and Chunking Strategy section and ask it to implement an ingestion algorithm to process
