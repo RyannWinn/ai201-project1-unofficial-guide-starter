@@ -16,6 +16,7 @@
 
 The domain I chose is Rate My Profesors. This knowledge is valuable because these 
 are real reviews that students who have taken the class submitted.
+
 ---
 
 ## Document Sources
@@ -49,20 +50,16 @@ are real reviews that students who have taken the class submitted.
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-
 350 tokens
 
 **Overlap:**
-
 20 tokens
 
 **Why these choices fit your documents:**
-
 Since each review is separate from each other, the overlap doesn't have to be as drastic since it will be searching
 for key words only. Recursive chunking strategy is best for these documents.
 
 **Final chunk count:**
-
 30-80 chunks total across 10 professors.
 
 ---
