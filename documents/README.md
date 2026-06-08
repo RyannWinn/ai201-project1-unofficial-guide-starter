@@ -50,13 +50,13 @@ Top tags:
 
 ## Checklist (10 professors)
 
-- [ ] lina_kloub_2754387.txt
-- [ ] olga_2963544.txt
-- [ ] swamy_3044671.txt
-- [ ] justin_3127655.txt
-- [ ] david_strimple_2872422.txt
-- [ ] derek_2460362.txt
-- [ ] laurent_1135923.txt
-- [ ] timothy_curry_2945690.txt
-- [ ] zhije_1282131.txt
-- [ ] alexander_russell_1691848.txt
+- [x] lina_kloub_2754387.txt
+- [x] olga_glebova_2963544.txt
+- [x] swamy_narayan_jignaas_pattipati_3044671.txt
+- [x] justin_furuness_3127655.txt
+- [x] david_strimple_2872422.txt
+- [x] derek_aguiar_2460362.txt
+- [x] laurent_michel_1135923.txt
+- [x] timothy_curry_2945690.txt
+- [x] zhije_jerry_shi_1282131.txt
+- [x] alexander_russell_1691848.txt
